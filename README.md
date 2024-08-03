@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi👋, Iam Manu BB
 I'm Currently Learning Machine Learning And data Analytics<br>Check out my Resume here
 
 
