@@ -1,5 +1,5 @@
-<center><h1> # Hi👋, I'm Manu BB </h1></center>
-<center> A Passionate Data Analyst from INDIA🇮🇳</center>
+# <center><h1>  Hi👋, I'm Manu BB </h1></center>
+## <center> A Passionate Data Analyst from INDIA </center>
 I'm Currently Learning Machine Learning And data Analytics<br>
 
 
