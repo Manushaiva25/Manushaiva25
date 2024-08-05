@@ -1,7 +1,12 @@
-   # <center>Hi👋, I'm Manu BB</center>
-## <center> A Passionate Data Analyst from INDIA </center>
+# Hi 👋, I'm Manu BB
 
-I'm Currently Learning Machine Learning And data Analytics<br>
+A Aspiring Data Analyst from India 🇮🇳
+
+- 🌱 I'm currently learning Machine Learning And Neural Networks
+- 📄 Check out my resume here – [My Resume](https://drive.google.com/file/d/151oMIeKtfnR106OXN6zYo9OU8bJ5yMgN/view?usp=drive_link)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Manushaiva25)
+- 💬 Ask me about Programming, Data Analysis, Machine Learning
+- 📫 Reach out to me at manushaiva2504@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=Manushaiva25&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
