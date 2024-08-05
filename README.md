@@ -3,7 +3,7 @@
 A Aspiring Data Analyst from India 🇮🇳
 
 - 🌱 I'm currently learning Machine Learning And Neural Networks
-- 📄 Check out my resume here – [My Resume](https://drive.google.com/file/d/151oMIeKtfnR106OXN6zYo9OU8bJ5yMgN/view?usp=drive_link)
+- 📄 Check out my resume here – [My Resume](https://drive.google.com/file/d/15swd_lTYp7sYWwd27LpaNfPcH3j4mjN1/view?usp=drivesdk)
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Manushaiva25)
 - 💬 Ask me about Programming, Data Analysis, Machine Learning
 - 📫 Reach out to me at manushaiva2504@gmail.com
