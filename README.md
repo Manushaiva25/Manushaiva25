@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manu BB
 
-A Aspiring Data Analyst from India 🇮🇳
+A Aspiring Data Analyst from India
 
 - 🌱 I'm currently learning Machine Learning And Neural Networks
 - 📄 Check out my resume here – [My Resume](https://drive.google.com/file/d/1IeyuMVUM7Sy5r4Wt1yP-UaQEqRbK1kgi/view?usp=sharing)
